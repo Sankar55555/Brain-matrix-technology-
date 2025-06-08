@@ -52,9 +52,3 @@ Feature | Description 'city' | Name of the city 'country' | Name of the country 
   7. correlation coefficient of 0.44
      
 Through this project, I have successfully analyzed the METRO SYSTEMS WORLDWIDE dataset. This project serves as a demonstration of data preprocessing, exploratory data analysis and correlation.
-
-## Contact Information : 
-For any inquiries or feedback regarding this project, please contact:
-
-   - LinkedIn: https://www.linkedin.com/in/komal-b61580158/
-   - Email: komal93singh@gmail.com
